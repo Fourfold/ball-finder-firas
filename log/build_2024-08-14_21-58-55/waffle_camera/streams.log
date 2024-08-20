@@ -1,0 +1,20 @@
+[0.163s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_teleop:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera -- -j16 -l16
+[0.194s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_teleop:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera -- -j16 -l16
+[0.213s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_teleop:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera
+[0.219s] -- Install configuration: ""
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/package_run_dependencies/waffle_camera
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/parent_prefix_path/waffle_camera
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/ament_prefix_path.sh
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/ament_prefix_path.dsv
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/path.sh
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/path.dsv
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.bash
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.sh
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.zsh
+[0.219s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.dsv
+[0.220s] -- Installing: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/package.dsv
+[0.220s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/packages/waffle_camera
+[0.220s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/cmake/waffle_cameraConfig.cmake
+[0.220s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/cmake/waffle_cameraConfig-version.cmake
+[0.220s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/package.xml
+[0.221s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_teleop:/home/fourfold/dev/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera

@@ -1,0 +1,20 @@
+[0.138s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/opt/ros/humble /usr/bin/cmake --build /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera -- -j16 -l16
+[0.165s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/opt/ros/humble /usr/bin/cmake --build /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera -- -j16 -l16
+[0.183s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/opt/ros/humble /usr/bin/cmake --install /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera
+[0.187s] -- Install configuration: ""
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/package_run_dependencies/waffle_camera
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/parent_prefix_path/waffle_camera
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/ament_prefix_path.sh
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/ament_prefix_path.dsv
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/path.sh
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/path.dsv
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.bash
+[0.187s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.sh
+[0.188s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.zsh
+[0.188s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.dsv
+[0.188s] -- Installing: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/package.dsv
+[0.188s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/packages/waffle_camera
+[0.188s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/cmake/waffle_cameraConfig.cmake
+[0.188s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/cmake/waffle_cameraConfig-version.cmake
+[0.188s] -- Up-to-date: /home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/package.xml
+[0.189s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder:/opt/ros/humble /usr/bin/cmake --install /home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera

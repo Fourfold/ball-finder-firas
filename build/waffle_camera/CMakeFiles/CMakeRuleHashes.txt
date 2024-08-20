@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ee58d7777375c85d4d29b0c67f40fba0 CMakeFiles/waffle_camera_uninstall

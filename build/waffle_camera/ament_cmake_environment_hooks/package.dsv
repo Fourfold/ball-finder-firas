@@ -1,0 +1,4 @@
+source;share/waffle_camera/local_setup.bash
+source;share/waffle_camera/local_setup.dsv
+source;share/waffle_camera/local_setup.sh
+source;share/waffle_camera/local_setup.zsh

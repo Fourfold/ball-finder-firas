@@ -1,0 +1,1 @@
+Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fourfold/dev/inmind sessions/inmind-session-13/src/waffle_camera -DCMAKE_INSTALL_PREFIX=/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera

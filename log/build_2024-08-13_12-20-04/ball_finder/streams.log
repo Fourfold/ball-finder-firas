@@ -1,0 +1,32 @@
+[0.015s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fourfold/dev/inmind sessions/inmind-session-13/src/ball_finder -DCMAKE_INSTALL_PREFIX=/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder
+[0.073s] -- The C compiler identification is GNU 11.4.0
+[0.121s] -- The CXX compiler identification is GNU 11.4.0
+[0.127s] -- Detecting C compiler ABI info
+[0.171s] -- Detecting C compiler ABI info - done
+[0.177s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.177s] -- Detecting C compile features
+[0.178s] -- Detecting C compile features - done
+[0.180s] -- Detecting CXX compiler ABI info
+[0.226s] -- Detecting CXX compiler ABI info - done
+[0.231s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.232s] -- Detecting CXX compile features
+[0.232s] -- Detecting CXX compile features - done
+[0.233s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.327s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.383s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[0.384s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.407s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.411s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.416s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.425s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.435s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.474s] -- Configuring incomplete, errors occurred!
+[0.474s] See also "/home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/CMakeFiles/CMakeOutput.log".
+[0.474s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:77 (message):
+[0.474s]   ament_target_dependencies() the passed package name 'rclcpp' was not found
+[0.474s]   before
+[0.474s] Call Stack (most recent call first):
+[0.474s]   CMakeLists.txt:14 (ament_target_dependencies)
+[0.474s] 
+[0.474s] [0m
+[0.478s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/fourfold/dev/inmind sessions/inmind-session-13/src/ball_finder -DCMAKE_INSTALL_PREFIX=/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder

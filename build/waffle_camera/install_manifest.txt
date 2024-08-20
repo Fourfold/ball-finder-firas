@@ -1,0 +1,15 @@
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/package_run_dependencies/waffle_camera
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/parent_prefix_path/waffle_camera
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/ament_prefix_path.sh
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/ament_prefix_path.dsv
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/path.sh
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/environment/path.dsv
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.bash
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.sh
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.zsh
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/local_setup.dsv
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/package.dsv
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/ament_index/resource_index/packages/waffle_camera
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/cmake/waffle_cameraConfig.cmake
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/cmake/waffle_cameraConfig-version.cmake
+/home/fourfold/dev/inmind sessions/inmind-session-13/install/waffle_camera/share/waffle_camera/package.xml

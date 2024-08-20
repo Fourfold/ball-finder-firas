@@ -1,0 +1,9 @@
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/uninstall.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/waffle_camera_uninstall.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/test.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/edit_cache.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/rebuild_cache.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/list_install_components.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/install.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/install/local.dir
+/home/fourfold/dev/inmind sessions/inmind-session-13/build/waffle_camera/CMakeFiles/install/strip.dir

@@ -1,0 +1,37 @@
+[0.321s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-13/src/ball_finder': PYTHONPATH=/home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ball_finder build --build-base /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build install --record /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/install.log --single-version-externally-managed install_data
+[0.444s] running egg_info
+[0.444s] creating ../../build/ball_finder/ball_finder.egg-info
+[0.444s] writing ../../build/ball_finder/ball_finder.egg-info/PKG-INFO
+[0.444s] writing dependency_links to ../../build/ball_finder/ball_finder.egg-info/dependency_links.txt
+[0.444s] writing entry points to ../../build/ball_finder/ball_finder.egg-info/entry_points.txt
+[0.444s] writing requirements to ../../build/ball_finder/ball_finder.egg-info/requires.txt
+[0.444s] writing top-level names to ../../build/ball_finder/ball_finder.egg-info/top_level.txt
+[0.444s] writing manifest file '../../build/ball_finder/ball_finder.egg-info/SOURCES.txt'
+[0.445s] reading manifest file '../../build/ball_finder/ball_finder.egg-info/SOURCES.txt'
+[0.446s] writing manifest file '../../build/ball_finder/ball_finder.egg-info/SOURCES.txt'
+[0.446s] running build
+[0.446s] running build_py
+[0.446s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build
+[0.446s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build/lib
+[0.446s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build/lib/ball_finder
+[0.446s] copying ball_finder/ball_finder.py -> /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build/lib/ball_finder
+[0.446s] copying ball_finder/__init__.py -> /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build/lib/ball_finder
+[0.446s] running install
+[0.446s] running install_lib
+[0.446s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages/ball_finder
+[0.446s] copying /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build/lib/ball_finder/ball_finder.py -> /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages/ball_finder
+[0.447s] copying /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build/lib/ball_finder/__init__.py -> /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages/ball_finder
+[0.447s] byte-compiling /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages/ball_finder/ball_finder.py to ball_finder.cpython-310.pyc
+[0.447s] byte-compiling /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages/ball_finder/__init__.py to __init__.cpython-310.pyc
+[0.447s] running install_data
+[0.447s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/share/ament_index
+[0.447s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/share/ament_index/resource_index
+[0.447s] creating /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/share/ament_index/resource_index/packages
+[0.447s] copying resource/ball_finder -> /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/share/ament_index/resource_index/packages
+[0.447s] copying package.xml -> /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/share/ball_finder
+[0.447s] running install_egg_info
+[0.448s] Copying ../../build/ball_finder/ball_finder.egg-info to /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages/ball_finder-0.0.0-py3.10.egg-info
+[0.448s] running install_scripts
+[0.461s] Installing finder script to /home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/ball_finder
+[0.461s] writing list of installed files to '/home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/install.log'
+[0.474s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-13/src/ball_finder' returned '0': PYTHONPATH=/home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fourfold/dev/inmind sessions/inmind-session-13/install/ball_finder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ball_finder build --build-base /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/build install --record /home/fourfold/dev/inmind sessions/inmind-session-13/build/ball_finder/install.log --single-version-externally-managed install_data
